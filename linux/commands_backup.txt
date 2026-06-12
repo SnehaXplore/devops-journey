@@ -1,0 +1,5 @@
+linux commands jo maine seekhi hain
+pwd - location dekhata hai
+ls - file banata hai
+mkdir - folder banata hai
+chmod - permissions set karta hai
