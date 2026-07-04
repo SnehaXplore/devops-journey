@@ -1,0 +1,15 @@
+1. ifconfig
+   kaam: Apna IP address dekhna
+   Example: ifconfig
+
+2. ping
+   kaam: Server se connection check karna, latency dekhna
+   Example: ping google.com
+
+3. curl ifconfig.me
+   kaam: Apna Public IP dekhna
+   Example: curl ifconfig.me
+
+4. nslookup
+   kaam: Domain ka IP address pata karna (dNS)
+   Example: nslookup google.com
