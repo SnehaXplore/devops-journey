@@ -13,3 +13,21 @@
 4. nslookup
    kaam: Domain ka IP address pata karna (dNS)
    Example: nslookup google.com
+
+
+
+5. nslookup
+   Kaam: Domain ka IP address pata karna (DNS)
+   Example: nslookup google.com
+
+6. netstat -tulpn
+   Kaam: Active network connections aur ports dekhna
+   Example: netstat -tulpn
+
+7. traceroute
+   Kaam: Data ka path dekhna server tak
+   Example: traceroute google.com
+
+8. ssh
+   Kaam: Remote server se secure connect karna
+   Example: ssh username@server_ip
