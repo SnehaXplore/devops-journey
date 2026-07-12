@@ -1,0 +1,28 @@
+GIT & GITHUB NOTES
+
+Git = Time machine for code
+Github = Git ka online storge
+
+COMMANDS:
+git config --global user.name "naam"
+git config --global user.email "email"
+git init
+git status
+git add.
+git commit -m "message"
+git remote add origin LINK
+git push -u origin master
+git log
+git remote -v
+
+PROCESS:
+1. git init
+2. git add.
+3. git commit -m "msg"
+4. git remote add origin LINK
+5. git push -u origin master
+
+TOKEN:
+Github Settings > Devloper settings >
+Personal access tokens > Generate new token >
+repo tick karo > Generate
