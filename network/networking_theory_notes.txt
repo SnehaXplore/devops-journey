@@ -1,0 +1,99 @@
+1. BIT AND BYTE
+- Bit = smallest unit, 0 or 1
+- Byte = 8 bits
+- 1024 Bytes = 1 KB
+- 1024 KB = 1 MB
+- 1024 MB = 1GB
+- Bits used for speed (Mbps)
+- Bytes used for storage (MB, GB)
+
+2. MAC ADDRESS
+- MAC = Media Access Control Address
+- Unique physical address of device
+- Never change, set in factory
+- Used in local network
+-Example: 00:1A:2B:3C:4D:5E
+
+Types of MAC:
+- Unicast - one device
+- Multicast - group of devices
+- Broadcast -  all devices (FF:FF:FF:FF:FF:FF)
+
+3. IP ADDRESS
+- Unique address for device on network
+- Private IP - 192.168.x.x (home/office)
+- Public IP - visible on internet
+- Command: ifconfig (private IP)
+- Command: curl ifconfig.me (public IP)
+
+4. PROT
+- Same IP, differennt services
+- Common prots:
+  80 = HTTP
+  443 = HTTPS
+  22 = SSH
+  3306 = MySQL
+
+5. TCP AND UDP
+- TCP - reliable, confirms data delivery (websites, email)
+- UDP - fast, no confirmation (video calls, gaming)
+
+6. HTTP AND HTTPS
+- HTTP - data sent without encryption, unsafe
+- HTTPS - data encrypted means HTTPS
+
+7.DNS
+- Domainne Name System
+- Converts domain name to IP address
+- Example: google.comm to 142.250.192.46
+- Command: nslookup google.com
+
+8. OSI MODEL - 7 LAYERS
+- Physical
+- Data Link
+- Network
+- Transport
+- Session
+- Presentation
+- Application
+Trick: All People Seem To Need Data Processing
+
+
+9. TCP/IP MODEL - 4 LAYERS
+- Network Access
+- Internet
+- Transport
+- Application
+(Simplified version of OSI Model)
+
+10. BANDWIDTH AND LATENCY
+- Bandwidth = maximum data transfer capacity
+- Latency = time taken to send data
+- Command: ping google.com (check latency)
+
+11. TOPOLOGY
+- Bus - single cable
+- Star - central hub (most common)
+- Ring - circular connection
+- Mesh - every device connected to every other
+- Tree - hierarchy structure
+
+12. ROUTER
+- Directs data packets to correct destination
+- Router IP usually: 192.168.1.1
+- Router vs Switch vs Hub - router is smartest
+
+13. SUBNETTING
+- Dividing a big network into smaller parts
+- Example: 192.168.1.0/24 divided into smaller subnets
+- Used for organization and security
+
+14. FIREWALL
+- Security guard for network
+- Decides what data can enter/exit
+- Blocks unsafe connections
+
+14. FIREWALL
+- Security guard for network
+- Decides what data can enter/exit
+- Blocks unsafe connections
